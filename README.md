@@ -56,6 +56,7 @@ https://github.com/user-attachments/assets/fcc55a7c-e53a-4356-a2b1-9edeac53632a
 ```yaml
 dependencies:
   flutter:
-  local_auth: ^2.1.6
-  flutter_secure_storage: ^9.0.0
-  lottie: ^2.6.0
+    sdk: flutter
+  local_auth: ^2.3.0  # for biometric authentication
+  flutter_secure_storage: ^9.2.4 # for storing tokens and fallback credentials
+  lottie: ^3.3.1
