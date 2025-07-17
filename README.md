@@ -47,7 +47,9 @@ This Flutter app demonstrates secure biometric and device credential authenticat
 https://github.com/user-attachments/assets/fcc55a7c-e53a-4356-a2b1-9edeac53632a
 
 ( The screens that were not shown while the screen recording are given below )
-![WhatsApp Image 2025-07-17 at 1 17 18 AM](https://github.com/user-attachments/assets/6ce61b95-5971-4e58-901a-5965f27194e4)  ![WhatsApp Image 2025-07-17 at 1 17 17 AM](https://github.com/user-attachments/assets/b1ee57dc-3dc9-455c-bb70-e207ec10968e)
+<img src="![WhatsApp Image 2025-07-17 at 1 17 18 AM](https://github.com/user-attachments/assets/6ce61b95-5971-4e58-901a-5965f27194e4) " alt="Alt Text" width="300" height="200">
+<img src=" ![WhatsApp Image 2025-07-17 at 1 17 17 AM](https://github.com/user-attachments/assets/b1ee57dc-3dc9-455c-bb70-e207ec10968e)" alt="Alt Text" width="300" height="200">
+
 
 ---
 ## 📦 Packages Used
